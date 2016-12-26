@@ -1,0 +1,28 @@
+{
+  "name": "tutsplus-downloader",
+  "version": "0.1.0",
+  "description": "Download courses form tutsplus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint . ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agribanov/tutsplus-downloader.git"
+  },
+  "keywords": [
+    "tutsplus",
+    "download"
+  ],
+  "author": "Aleksandr Gribanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agribanov/tutsplus-downloader/issues"
+  },
+  "homepage": "https://github.com/agribanov/tutsplus-downloader#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-google": "^0.7.1"
+  }
+}
